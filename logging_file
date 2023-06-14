@@ -1,0 +1,15 @@
+2023-06-11 22:16:07,809 try to open not available file root INFO
+2023-06-11 22:16:07,809 exeception genrate root INFO
+2023-06-11 22:16:07,809 None root INFO
+2023-06-11 22:16:07,809 None root INFO
+2023-06-11 22:17:13,563 root INFO try to open not available file 
+2023-06-11 22:17:13,563 root INFO exeception genrate 
+2023-06-11 22:17:13,564 root INFO None 
+2023-06-11 22:17:13,564 root INFO None 
+2023-06-11 22:18:12,468 root INFO try to open not available file 
+2023-06-11 22:18:12,469 root INFO exeception genrate 
+2023-06-11 22:18:12,469 root INFO [Errno 2] No such file or directory: 'vivek.txt' 
+2023-06-11 22:18:12,469 root INFO addition of 3+5 = 8 
+2023-06-11 22:39:37,203 root INFO try to open not available file 
+2023-06-11 22:40:06,528 root INFO try to open not available file 
+2023-06-11 22:40:06,528 root INFO else block execute so no error by tyr block 

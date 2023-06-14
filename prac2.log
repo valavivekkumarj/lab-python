@@ -1,0 +1,43 @@
+2023-06-12 10:33:34,137 root INFO check age valid or not
+2023-06-12 10:33:34,138 root INFO valid age entered
+2023-06-12 10:34:33,926 root INFO check age valid or not
+2023-06-12 10:34:33,928 root INFO negative age entered
+2023-06-12 10:36:57,930 root INFO check age valid or not
+2023-06-12 10:36:57,930 root INFO valid age entered
+2023-06-12 10:37:05,700 root INFO check age valid or not
+2023-06-12 10:37:05,700 root INFO negative age entered
+2023-06-12 10:37:13,255 root INFO check age valid or not
+2023-06-12 10:37:13,255 root INFO very high age entered
+2023-06-12 10:46:30,860 root INFO checking for valid number
+2023-06-12 10:46:30,860 root INFO 12344
+2023-06-12 10:46:30,860 root INFO not valid number
+2023-06-12 10:46:30,860 root INFO not valid number
+2023-06-12 10:47:29,935 root INFO checking for valid number
+2023-06-12 10:47:29,935 root INFO 9313290519
+2023-06-12 10:47:29,935 root INFO valid number
+2023-06-12 23:37:48,808 root ERROR handling zero division error
+2023-06-12 23:40:41,393 root ERROR handling zero division error
+2023-06-12 23:41:27,883 root ERROR handling zero division error
+2023-06-12 23:42:39,686 root ERROR handling zero division error division by zero
+2023-06-12 23:43:41,548 root ERROR handling zero division error division by zero
+2023-06-12 23:43:41,549 root ERROR handling zero division error division by zero
+2023-06-12 23:44:28,377 root ERROR handling zero division error division by zero
+2023-06-12 23:44:28,378 root ERROR handling zero division error division by zero
+2023-06-12 23:45:47,337 root ERROR handling zero division error division by zero
+2023-06-12 23:45:47,337 root ERROR handling zero division error division by zero
+2023-06-12 23:51:27,625 root ERROR handling zero division error division by zero
+2023-06-12 23:51:27,625 root ERROR handling zero division error division by zero
+2023-06-12 23:52:07,355 root ERROR handling zero division error division by zero
+2023-06-12 23:52:07,355 root ERROR handling zero division error division by zero
+2023-06-12 23:52:07,355 root ERROR file not found [Errno 2] No such file or directory: 'pra.log'
+2023-06-12 23:53:09,242 root ERROR handling zero division error division by zero
+2023-06-12 23:53:09,243 root ERROR handling zero division error division by zero
+2023-06-12 23:53:16,759 root ERROR handling zero division error division by zero
+2023-06-12 23:53:16,759 root ERROR handling zero division error division by zero
+2023-06-12 23:53:16,759 root ERROR file not found [Errno 2] No such file or directory: 'prac.log'
+2023-06-12 23:54:17,788 root ERROR handling zero division error division by zero
+2023-06-12 23:54:17,788 root ERROR handling zero division error division by zero
+2023-06-12 23:55:13,961 root ERROR handling zero division error division by zero
+2023-06-12 23:55:13,961 root ERROR handling zero division error division by zero
+2023-06-12 23:57:39,333 root ERROR handling zero division error division by zero
+2023-06-12 23:57:39,333 root ERROR handling zero division error division by zero
